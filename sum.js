@@ -1,4 +1,4 @@
-function summ(n){
+function summ(n){ 
 
 sum=0;
 
