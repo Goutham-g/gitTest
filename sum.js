@@ -18,7 +18,8 @@ function newfun(){
 
 let total=summ(10)
 console.log("sum :",total);
-let nw_sum=summ(5)
+ 
+
 newfun()
  
 
