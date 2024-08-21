@@ -21,5 +21,6 @@ console.log("sum :",total);
  
 
 newfun()
+newfun()
  
 
