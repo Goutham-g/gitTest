@@ -11,16 +11,18 @@ return sum
 
 }
 
-function newfun(){
-    console.log("display function");
-    
-}
+
+
+
+
 
 let total=summ(10)
 console.log("sum :",total);
  
 
-newfun()
-newfun()
+
+console.log("new display");
+
+
  
 
